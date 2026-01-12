@@ -7,7 +7,7 @@ This repository contains all my completed NPTEL courses along with certificates 
 ## 📂 Courses
 
 ### 1. Java Programming
-- **Certificate:** [Java_NPTEL_Certificate.pdf](./Java/Certificate.pdf)
+- **Certificate:** [Java_NPTEL_Certificate.pdf](NPTEL certificate.pdf)
 - **Skills Learned:**
   - Core Java and OOP (Classes, Objects, Inheritance, Polymorphism)
   - Exception Handling and File I/O
